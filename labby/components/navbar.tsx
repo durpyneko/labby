@@ -1,3 +1,6 @@
+// Lib
+import Link from "next/link"
+
 // Components
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
 import { Button } from "@/components/ui/button"
@@ -13,7 +16,6 @@ import { Badge } from "@/components/ui/badge"
 
 // Icons
 import { LogOutIcon, SettingsIcon, Skull, User2Icon } from "lucide-react"
-import Link from "next/link"
 
 export default function Comp() {
   return (
