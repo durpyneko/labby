@@ -10,17 +10,17 @@
 
     Frontend Interview Challenge
 
-# Prerequisites
+# Prerequisites steps
 
-- Bun Installed -> https://bun.com/
-
-- Clone the repo & cwd
+1. Clone the repo & cwd
 
 ```bash
 git clone https://git.durpy.dev/durpyneko/labby && cd labby/
 ```
 
-- Be in the root of the repo for further instructions
+2. Bun Installed -> https://bun.com/
+
+3. Be in the root of the repo for further instructions
 
 # Set up
 
@@ -30,7 +30,7 @@ git clone https://git.durpy.dev/durpyneko/labby && cd labby/
 nix develop
 ```
 
-This does the prerequisites for you.
+This does the prerequisite deps for you.
 
 ## Install deps
 
