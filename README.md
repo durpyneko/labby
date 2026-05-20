@@ -35,7 +35,7 @@ This does the prerequisites for you.
 ## Install deps
 
 ```bash
-bun install
+cd labby/ && bun i && cd server/ && bun i && cd ../../
 ```
 
 ## Dev build
