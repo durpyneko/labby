@@ -10,7 +10,7 @@ const app = new Elysia()
   .use(cors({ origin: "http://localhost:3000" })) // permit the browser to read responses from this origin (frontend)
   .use(openapi())
   .get("/", ({ redirect }) => {
-    return redirect("/openapi")
+    return redirect("/openapi") // redirect to docs on root req
   })
   .get("/data/set", () => {
     const data = JSON.parse(readFileSync("data/set.json", "utf-8")) // TODO store in a cache

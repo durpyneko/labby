@@ -49,3 +49,7 @@ bun run start
 ```
 
 This builds both Nextjs and Elysia and starts their compiled builds
+
+# Api
+
+Api infomation can be accessed via `:3001/openapi` after Elysia is served
