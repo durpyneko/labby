@@ -30,7 +30,7 @@ git clone https://git.durpy.dev/durpyneko/labby && cd labby/
 nix develop
 ```
 
-This does the prerequisits for you.
+This does the prerequisites for you.
 
 ## Dev build
 
