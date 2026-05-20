@@ -55,6 +55,7 @@ bun run start
 ```
 
 This builds both Nextjs and Elysia and starts their compiled builds
+Note: Press "D" on the webpage to toggle light/dark mode
 
 # Api
 
