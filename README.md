@@ -32,6 +32,12 @@ nix develop
 
 This does the prerequisites for you.
 
+## Install deps
+
+```bash
+bun install
+```
+
 ## Dev build
 
 ```bash
