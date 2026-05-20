@@ -10,7 +10,21 @@
 
     Frontend Interview Challenge
 
+# Prerequisits
+
+Bun Installed -> https://bun.com/
+
+Be in the root of the repo for further instructions
+
 # Set up
+
+## Init dev env (NixOS)
+
+```bash
+nix develop
+```
+
+This does the prerequisits for you.
 
 ## Dev build
 
