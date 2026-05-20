@@ -10,11 +10,17 @@
 
     Frontend Interview Challenge
 
-# Prerequisits
+# Prerequisites
 
-Bun Installed -> https://bun.com/
+- Bun Installed -> https://bun.com/
 
-Be in the root of the repo for further instructions
+- Clone the repo & cwd
+
+```bash
+git clone https://git.durpy.dev/durpyneko/labby && cd labby/
+```
+
+- Be in the root of the repo for further instructions
 
 # Set up
 
