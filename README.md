@@ -10,7 +10,7 @@
 
     Frontend Interview Challenge
 
-# Prerequisites steps
+# Prerequisite steps
 
 1. Clone the repo & cwd
 
