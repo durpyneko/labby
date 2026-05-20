@@ -59,3 +59,10 @@ This builds both Nextjs and Elysia and starts their compiled builds
 # Api
 
 Api infomation can be accessed via `:3001/openapi` after Elysia is served
+
+# Tools & Frameworks used:
+
+- [Bun (Package Manager) ↗](https://bun.com/)
+- [Nextjs (Frontend) ↗](https://nextjs.org/)
+- [Shadcn (UI Lib) ↗](https://ui.shadcn.com/)
+- [ElysiaJS (Backend Server) ↗](https://elysiajs.com/)
